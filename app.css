@@ -1,0 +1,85 @@
+.p1 {
+    color: red;
+}
+.p2 {
+    color: green;
+}
+
+.p3{
+    color: blue;
+}
+.h2 {
+    color: blue;
+}
+.title1 {
+    background-color: wheat;
+    color: red;
+}
+.title2 {
+    background-color: wheat;
+    color: red;
+    text-align: center;
+    text-transform:uppercase ;
+}
+.title3 {
+    background-color: wheat;
+    color: red;
+    text-align: center;
+    text-transform:uppercase ;
+    font-size: 30px;
+}
+.title4 {
+    background-color: wheat;
+    color: red;
+    text-align: center;
+    text-transform:uppercase ;
+    font-size: 30px;
+    font-weight: 600;
+}
+.box1 {
+    background-color: wheat;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    font-size: 30px;
+    line-height: 200px;
+    border: blue 2px solid;
+    border-radius: 20px;
+}
+.box2 {
+    background-color: wheat;
+    border: green 2px solid;
+    width: 400px;
+    padding: 40px;
+}
+.box3 {
+  
+  border: 1px solid;
+  
+ 
+}
+.sub-box {
+    background-color: wheat;
+    margin: 40px;
+}
+.box4 {
+    background-color: red;
+    display: inline-block;
+    
+}
+#span1{
+    background: red;
+  }
+#span2{
+    background:yellow;
+    width: 500px;
+    display: inline-block;
+    
+}
+.red {
+    background-color: red;
+    display: block;
+}
+.blue {
+    background-color: blue;
+}
